@@ -1,7 +1,7 @@
 # Book settings
 title: Tradecraft 101
 author: Amy Gurtler
-logo: https://imgur.com/a/Gk6oDUX
+logo: images/car-and-exit-ramp.png
 copyright: ""
 exclude_patterns: ["LICENSE.md", "README.md"]
 
